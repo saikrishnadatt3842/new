@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>web page</title>
+    <link href="style.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<style>
+   .img{ margin: 5%;
+         width: 300px;
+        height: 500px;
+    margin-bottom: 5%;
+        
+        
+       
+    }
+    article{
+    
+        display: flex;
+        align-items: center;
+        background-color: lightgreen;
+    
+    }
+    body{
+        margin: 10px;
+        
+    }
+    @media(max-width: 400px)
+    {
+        body{
+            display: inline;
+            
+        }
+        article{
+            display: inline;
+            align-items: center;
+        }
+        
+        
+    }
+
+    
+    
+    </style>
+  
+</head>
+<body>
+    <article>
+    <div class="row" >
+   <h1 class="js">we design and build better chairs,for a better life</h1>
+   <p>in a small shop in the hert of lisbon. we spent our days relentlessly 
+       perfercting the chair. the result is a perfercting
+       blend of beauty and comfort that will have a lasting impact on your helth.
+   </p>
+        </div>
+        <img  class="img"  src="images/tab.png" alt="about" >
+    </article>
+    <img src="https://user-images.githubusercontent.com/102149703/160427707-0710943b-4c98-4bd8-a5d1-c87124fc9785.png)
+" alt="about" >
+
+<img src="https://github.com/saikrishnadatt3842/public-images/commit/788ce9274ca31aa2a743b92e6e5a564335bef230" alt="about" >
+</body>
+</hhtml>
